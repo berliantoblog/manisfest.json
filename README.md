@@ -1,0 +1,1 @@
+# manisfest.json
